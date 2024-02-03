@@ -1,8 +1,6 @@
 - 👋 Hi, I’m Harold Rajaonarison
-- 👀 I’m interested in Mobile Development
-- 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on flutter projects
-- 📫 How to reach me ...
+- 👀 I’m interested in Big Data and Mobile Development
+- 🌱 I’m currently using GCP, Flutter and Java Spring Boot for Backend
 
 <!---
 haroldraj/haroldraj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
